@@ -1,7 +1,7 @@
 # LED-brooch-with-ATTINY13
 Light patterns with 3 LEDs - a party gag
 
-![LED brooch] (LED-brooch-with-ATTINY13/Photo 11.04.18, 18 28 18.jpg)
+![LED-brooch-with-ATTINY13] (LED-brooch-with-ATTINY13/Photo 11.04.18, 18 28 18.jpg)
 
 This was a project for me to learn about the ATTINY13A, one of the most low cost processors. They are small form factor
 and ideal for a brooch I created. The purpose is that a group of people can 'see' each other in the night in a foreign city,
